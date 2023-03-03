@@ -1,0 +1,47 @@
+.bottom{
+    background: #051B35 none repeat scroll 0 0;
+    height: 5px;
+    width: 100px;
+    margin: -2rem auto 0 ;
+    margin-bottom: 3rem;
+   
+   
+   }
+   .axetitle{
+     color :#030d18;
+     position:relative;
+     margin-top: 5rem;
+     margin-bottom: 3rem;
+     font-family:"Raleway",sans-serif;
+     font-weight: 700;
+     font-size: 28px;
+   
+   
+   }
+   .img{
+
+    width: 300px;
+    height: 300px;
+   }
+   .Fixed{
+    background-image : url("../../asset/image/activite1.jpg");
+    min-height: 250px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   }
+   .PageOverly{
+       position: absolute;
+       min-height: 250px;
+       width: 100% ;
+       background : rgba(1, 31, 41, 0.7);
+   }
+   .title{
+       margin-top: 8rem;
+       font-family:" Monsterrat",sans-serif;
+       font-weight: 700;
+       color: #FFFAFA;
+       font-size: 40px;
+   }

@@ -1,0 +1,41 @@
+.topFixedBanner{
+
+ background-image: url("../../asset/image/activite1.jpg");
+ min-height: 550px;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+}
+
+.topBannerOverly{
+ position :absolute;
+ min-height: 550px;
+ width: 100%;
+ text-align-last: center;
+ background: rgb(0,0,0,0,5);
+
+}
+
+.topContent{
+    padding-top: 5rem;
+    text-align-last: center;
+   
+}
+.toptitle{
+  padding-top: 12rem;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+
+}
+.subtitle{
+ font-family: "Raleway",sans-serif;
+ font-weight: 600;
+ font-size: 25px;
+ color:rgb(238, 244, 247);
+
+
+}

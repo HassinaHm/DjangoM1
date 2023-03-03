@@ -1,0 +1,12 @@
+.navTitle{
+  font-family:"Montserrat",sans-serif ;
+  color: #ffffff ;
+  font-size: 30px ;
+  font-weight: 700 ;
+
+}
+
+.navhover{
+    text-decoration: none;
+    color : #FFFAFA;
+}

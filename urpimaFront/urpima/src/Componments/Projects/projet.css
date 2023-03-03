@@ -1,0 +1,39 @@
+.axetitle{
+    color :#030d18;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family:"Raleway",sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+  
+  
+  }
+  .AxeIcon{
+
+    height: 100px;
+    width: 120px;
+   
+   
+   }
+.pic{
+
+  width: 100%;
+
+
+  }
+  .axename{
+    color :#051B35;
+    margin-top: 1rem;
+    font-family: "Raleway" ,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   
+   }
+   .axedescription{
+    color:#2c2c2c;
+    margin-top: 1rem;
+    font-family: "Raleway" ,sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+   
+   }
